@@ -1,0 +1,178 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: "'Red Hat Mono', monospace;";
+}
+
+body header {
+  font-size: 24px;
+}
+
+body header img {
+  width: 40%;
+}
+
+body header a:hover {
+  color: #e9bff5 !important;
+}
+
+body header .sn-active a {
+  color: #dba7eb !important;
+}
+
+body header .active a {
+  color: #e9bff5 !important;
+}
+
+body main .sn {
+  padding-left: 6%;
+}
+
+body main .sn .sn-text {
+  padding-top: 33%;
+  margin-left: 9%;
+  font-size: 20px;
+}
+
+body main .sn .sn-img1 {
+  width: 35%;
+  margin-left: 15%;
+}
+
+body main .sn .sn-img2 img {
+  width: 31%;
+  margin-top: 30%;
+}
+
+body main .second {
+  background-color: #e9bff5;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body main .sn-2 {
+  font-size: 20px;
+}
+
+body main .sn-2 hr {
+  width: 12%;
+  height: 2px;
+}
+
+body main .sn-2 .sec {
+  width: 8%;
+  height: 2px;
+}
+
+body main .sn-card {
+  padding-left: 14%;
+}
+
+body main .sn-card .sn-color {
+  background-color: #dba7eb;
+}
+
+body main .pict img {
+  width: 70%;
+  margin-left: 15.5%;
+}
+
+body footer {
+  color: #dba7eb;
+  font-size: 20px;
+}
+
+body footer a:hover {
+  color: #e9bff5 !important;
+}
+
+body footer .sn-active a {
+  color: #dba7eb !important;
+}
+
+body footer img {
+  width: 48%;
+}
+
+body footer .sn-foot {
+  padding-left: 43%;
+}
+
+body footer .sn-foot-1 {
+  padding-left: 36%;
+}
+
+body footer .sn-foot-2 {
+  padding-left: 11%;
+}
+
+body footer .sn-foot-3 {
+  padding-left: 10%;
+}
+
+body main .sn-g img {
+  margin-left: 2%;
+}
+
+body main .sn-g-22 {
+  font-size: 15px;
+  margin-top: 7%;
+}
+
+body main .img-w {
+  width: 70%;
+  margin-left: 15%;
+}
+
+body main .sn-left {
+  padding-left: 15%;
+}
+
+body main .sn-s {
+  height: 600px;
+}
+
+body main .color {
+  color: #dba7eb;
+}
+
+body main .color1 {
+  color: #885199;
+}
+
+body main .sn-color1 {
+  background-color: #dba7eb;
+}
+
+body main .sn-color2 {
+  color: #dba7eb;
+}
+
+body main .sn-a img {
+  width: 60%;
+}
+
+body main .sn-author {
+  height: 300px;
+}
+
+body main .sn-author2 {
+  height: 20%;
+  background-color: #dba7eb;
+  margin-top: 7%;
+  color: #FFF;
+  padding: 1%;
+}
+
+body main .sn-author2 a {
+  color: #fff;
+}
+
+body main .position {
+  margin-top: 11%;
+}
+/*# sourceMappingURL=style.css.map */

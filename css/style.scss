@@ -1,0 +1,162 @@
+$light:#e9bff5;
+$medium :#dba7eb;
+$dark :#885199;
+$font1:"'Red Hat Mono', monospace;";
+$font2:'Quicksand', sans-serif;
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: $font1;
+    header{
+        font-size: 24px;
+        img{
+            width:40%;
+        }
+        a:hover{
+            color: $light !important;
+        }
+        .sn-active a{
+            color: $medium !important ;
+        }
+        .active a{
+            color:$light !important;
+        }
+    }
+    main{
+        .sn{
+            padding-left:6%;
+            .sn-text{
+                padding-top:33%;
+                margin-left: 9%;
+                font-size: 20px;
+            }
+            .sn-img1{
+                width:35%;
+                margin-left: 15%;
+            }
+            .sn-img2 img{
+                width: 31%;
+                margin-top:30%;
+            }
+        }
+        .second{
+            background-color: $light;
+            justify-content: center;
+        }
+        .sn-2{
+            font-size: 20px;
+            hr{
+                width:12%;
+                height: 2px;
+            }
+            .sec{
+                width: 8%;
+                height: 2px;
+            }
+        }
+        .sn-card{
+            padding-left:14%;
+            .sn-color{
+                background-color:$medium ;
+            }
+        }
+        .pict img{
+            width: 70%;
+            margin-left: 15.5%;
+           }
+    }
+    footer{
+        color:$medium;
+        font-size: 20px;
+        a:hover{
+            color: $light !important;
+        }
+        .sn-active a{
+            color: $medium !important ;
+        }
+        img{
+            width: 48%;
+        }
+        .sn-foot{
+            padding-left:43%;
+        }
+        .sn-foot-1{
+            padding-left:36%;
+        }
+        .sn-foot-2{
+            padding-left:11%;
+        }
+        .sn-foot-3{
+            padding-left:10%;
+        }
+    }
+}
+//Gallery
+body{
+    main{
+        .sn-g img{
+            margin-left:2%; 
+        }
+        .sn-g-22{
+            font-size: 15px;
+            margin-top: 7%;
+        }
+        .img-w{
+            width: 70%;
+           margin-left:15%;
+        }
+        .sn-left{
+            padding-left:15%;
+        }
+        .sn-s{
+            height: 600px;
+        }
+    }
+}
+//Contact
+body{
+    main{
+        .color{
+            color:$medium;
+        }
+        .color1{
+            color: $dark;
+        }
+        .sn-color1 {
+            background-color: $medium;
+        }
+        .sn-color2{
+            color: $medium;
+        }
+    }
+}
+//author
+body{
+    main{
+        .sn-a img{
+            width:60%;
+        }
+       
+        .sn-author{
+            
+            height: 300px;
+        }
+        .sn-author2{
+            height: 20%;
+            background-color: $medium;
+            margin-top: 7%;
+            color:#FFF;
+            padding: 1%;
+            a{
+                color:#fff;
+            }
+        }
+        .position{
+            margin-top: 11%;
+            
+        }
+    }
+}

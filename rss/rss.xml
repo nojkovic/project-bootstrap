@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Promenjena lokacija</title>
+    <link>https://pets-sara.netlify.app/html/contact.html</link>
+    <description> Sada se nalazimo na novoj lokaciji</description>
+    <item>
+      <title>Informacije</title>
+      <link>https://pets-sara.netlify.app/html/about.html</link>
+      <description>Saznaj zasto je dobro usvojiti ljubimca</description>
+    </item>
+    <item>
+      <title>Novosti</title>
+      <link>https://pets-sara.netlify.app/html/gallery.html</link>
+      <description> Imamo nove clanove</description>
+    </item>
+  </channel>
+</rss> 
